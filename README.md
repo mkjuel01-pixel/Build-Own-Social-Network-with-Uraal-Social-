@@ -1,3 +1,3 @@
 # Build-Own-Social-Network-with-Uraal-Social-
 
-![Uraal Social](Images/landing.png)
+![Uraal Social](Images/Landing.png)
